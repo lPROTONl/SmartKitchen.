@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/meals"
+        android:icon="@drawable/eat"
+        android:title="Meals" />
+
+    <item
+        android:id="@+id/favorites"
+        android:icon="@drawable/white_heart"
+        android:title="Favorites" />
+
+</menu>
